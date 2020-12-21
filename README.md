@@ -1,3 +1,9 @@
+
+
+
+# TRating
+Fivewin for (x)Harbour Rating class 
+
 5 Star rating control with average rating display support and text-markup
 
 5 Star Rating control allows you to provide easy content rating to your users. 
@@ -15,6 +21,8 @@ You can set custom images to be used instead of built-in rating stars
 You can set the nImages data to set how many images you want show
 
 we tried with Png files and background Brush easy 
+
+see test1.gif
 
 ## MIT License
 
